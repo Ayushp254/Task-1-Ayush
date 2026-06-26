@@ -1,2 +1,5 @@
 # Task-1-Ayush
 repository for task 1
+Project Title: Demo Company Website
+Description: This website provides the user with a brief description about the website and allows them to fill out a form to create an account. If a user already has an account, they can click the login button to enter their email and password to enter their personal dashboard. The user can also access the company's socials (Linkedin, Instagram, X) through clicking on user-friendly access buttons. Overall, the project is centered around authentication. 
+How to Run: Once you enter the website, you can create an account by correctly filling out all the fields unders the Lets Connect header and then clicking the "Create an Account" button. Once you get the "user is registered succesfully message," you can attempt to login by typing in your username and password. If entered correctly, you should be directed to the user dashboard displaying various details about your account. Once done, you can log out by clicking the appropriate button. 
