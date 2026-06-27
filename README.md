@@ -1,4 +1,4 @@
-# Task-1-Ayush
+# Task-2-AyushPatra
 repository for task 1
 Project Title: Demo Company Website
 Description: This website provides the user with a brief description about the website and allows them to fill out a form to create an account. If a user already has an account, they can click the login button to enter their email and password to enter their personal dashboard. The user can also access the company's socials (Linkedin, Instagram, X) through clicking on user-friendly access buttons. Overall, the project is centered around authentication. 
