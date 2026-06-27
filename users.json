@@ -73,5 +73,20 @@
     "country": "Canada",
     "option": "Option 1",
     "createdAt": "2026-06-27T00:07:17.504Z"
+  },
+  {
+    "id": "1782520943732",
+    "firstName": "Russel",
+    "lastName": "Willson",
+    "email": "russel@gmail.com",
+    "password": "roger@123",
+    "phone": "9876543210",
+    "address": "123 Wilson Ln.",
+    "zipcode": "55555",
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "option": "Option 1",
+    "createdAt": "2026-06-27T00:42:23.732Z"
   }
 ]
